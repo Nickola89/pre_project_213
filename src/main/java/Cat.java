@@ -1,5 +1,5 @@
 public class Cat {
-private String animal;
+    private String animal;
 
     public String getAnimal() {
         return animal;
